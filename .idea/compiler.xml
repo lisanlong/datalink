@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dl-biz" />
+        <module name="dl-common" />
+        <module name="dl-contract" />
+        <module name="dl-domain" />
+        <module name="dl-extend" />
+        <module name="dl-manager-core" />
+        <module name="dl-worker-api" />
+        <module name="dl-worker-core" />
+        <module name="dl-worker-reader-dummy" />
+        <module name="dl-worker-reader-hbase" />
+        <module name="dl-worker-reader-mysql" />
+        <module name="dl-worker-writer-dummy" />
+        <module name="dl-worker-writer-es" />
+        <module name="dl-worker-writer-hbase" />
+        <module name="dl-worker-writer-hdfs" />
+        <module name="dl-worker-writer-rdbms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="datalink" target="1.8" />
+      <module name="dl-biz" target="1.8" />
+      <module name="dl-common" target="1.8" />
+      <module name="dl-contract" target="1.8" />
+      <module name="dl-domain" target="1.8" />
+      <module name="dl-extend" target="1.8" />
+      <module name="dl-manager" target="1.8" />
+      <module name="dl-manager-core" target="1.8" />
+      <module name="dl-worker" target="1.8" />
+      <module name="dl-worker-api" target="1.8" />
+      <module name="dl-worker-core" target="1.8" />
+      <module name="dl-worker-reader-dummy" target="1.8" />
+      <module name="dl-worker-reader-hbase" target="1.8" />
+      <module name="dl-worker-reader-mysql" target="1.8" />
+      <module name="dl-worker-writer-dummy" target="1.8" />
+      <module name="dl-worker-writer-es" target="1.8" />
+      <module name="dl-worker-writer-hbase" target="1.8" />
+      <module name="dl-worker-writer-hdfs" target="1.8" />
+      <module name="dl-worker-writer-rdbms" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

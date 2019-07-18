@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datalink.iml" filepath="$PROJECT_DIR$/datalink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-biz/dl-biz.iml" filepath="$PROJECT_DIR$/dl-biz/dl-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-common/dl-common.iml" filepath="$PROJECT_DIR$/dl-common/dl-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-contract/dl-contract.iml" filepath="$PROJECT_DIR$/dl-contract/dl-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-domain/dl-domain.iml" filepath="$PROJECT_DIR$/dl-domain/dl-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-extend/dl-extend.iml" filepath="$PROJECT_DIR$/dl-extend/dl-extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-manager/dl-manager.iml" filepath="$PROJECT_DIR$/dl-manager/dl-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-manager/dl-manager-core/dl-manager-core.iml" filepath="$PROJECT_DIR$/dl-manager/dl-manager-core/dl-manager-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-api/dl-worker-api.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-api/dl-worker-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-core/dl-worker-core.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-core/dl-worker-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-reader-dummy/dl-worker-reader-dummy.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-reader-dummy/dl-worker-reader-dummy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-reader-hbase/dl-worker-reader-hbase.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-reader-hbase/dl-worker-reader-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-reader-mysql/dl-worker-reader-mysql.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-reader-mysql/dl-worker-reader-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-writer-dummy/dl-worker-writer-dummy.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-writer-dummy/dl-worker-writer-dummy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-writer-es/dl-worker-writer-es.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-writer-es/dl-worker-writer-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-writer-hbase/dl-worker-writer-hbase.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-writer-hbase/dl-worker-writer-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-writer-hdfs/dl-worker-writer-hdfs.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-writer-hdfs/dl-worker-writer-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl-worker/dl-worker-writer-rdbms/dl-worker-writer-rdbms.iml" filepath="$PROJECT_DIR$/dl-worker/dl-worker-writer-rdbms/dl-worker-writer-rdbms.iml" />
+    </modules>
+  </component>
+</project>
